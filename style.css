@@ -1,0 +1,12 @@
+body{
+  background-image: url(images/amd.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box{
+  height: 200px;
+  width: 400px;
+  border: 5px solid paleturquoise;
+  overflow: scroll;
+}
